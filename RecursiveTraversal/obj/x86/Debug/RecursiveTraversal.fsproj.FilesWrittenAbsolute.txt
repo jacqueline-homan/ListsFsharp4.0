@@ -1,0 +1,5 @@
+/home/jacque/Projects/F-sharp/Lists/RecursiveTraversal/obj/x86/Debug/.NETFramework,Version=v4.5.1.AssemblyAttribute.fs
+/home/jacque/Projects/F-sharp/Lists/RecursiveTraversal/bin/Debug/RecursiveTraversal.exe.mdb
+/home/jacque/Projects/F-sharp/Lists/RecursiveTraversal/bin/Debug/RecursiveTraversal.exe
+/home/jacque/Projects/F-sharp/Lists/RecursiveTraversal/obj/x86/Debug/RecursiveTraversal.exe
+/home/jacque/Projects/F-sharp/Lists/RecursiveTraversal/obj/x86/Debug/RecursiveTraversal.exe.mdb

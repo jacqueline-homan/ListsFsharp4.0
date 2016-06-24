@@ -1,0 +1,53 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{f2a71f9b-5d33-465a-a702-920d77279786}") = "Lists", "Lists\Lists.fsproj", "{05581944-44A1-4503-8321-B5D23F511BED}"
+EndProject
+Project("{f2a71f9b-5d33-465a-a702-920d77279786}") = "RandomList", "RandomList\RandomList.fsproj", "{3BEC8747-522C-4AE1-AC42-000E84056940}"
+EndProject
+Project("{f2a71f9b-5d33-465a-a702-920d77279786}") = "PatternMatching", "PatternMatching\PatternMatching.fsproj", "{26D6A861-CBEE-4BF4-9EAF-0A8E73B1452D}"
+EndProject
+Project("{f2a71f9b-5d33-465a-a702-920d77279786}") = "FunctionComposition", "FunctionComposition\FunctionComposition.fsproj", "{06375669-5774-4219-A680-324BAAF153A2}"
+EndProject
+Project("{f2a71f9b-5d33-465a-a702-920d77279786}") = "Consing", "Consing\Consing.fsproj", "{CB43267E-FD83-4FA1-B5B3-96E331FD357D}"
+EndProject
+Project("{f2a71f9b-5d33-465a-a702-920d77279786}") = "ConsingOnStackList", "ConsingOnStackList\ConsingOnStackList.fsproj", "{47F70B83-94C1-41DD-AFCA-E46EA7ADBC44}"
+EndProject
+Project("{f2a71f9b-5d33-465a-a702-920d77279786}") = "RecursiveTraversal", "RecursiveTraversal\RecursiveTraversal.fsproj", "{00385519-4CE0-468D-99FB-AA29C51F9C95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05581944-44A1-4503-8321-B5D23F511BED}.Debug|x86.ActiveCfg = Debug|x86
+		{05581944-44A1-4503-8321-B5D23F511BED}.Debug|x86.Build.0 = Debug|x86
+		{05581944-44A1-4503-8321-B5D23F511BED}.Release|x86.ActiveCfg = Release|x86
+		{05581944-44A1-4503-8321-B5D23F511BED}.Release|x86.Build.0 = Release|x86
+		{3BEC8747-522C-4AE1-AC42-000E84056940}.Debug|x86.ActiveCfg = Debug|x86
+		{3BEC8747-522C-4AE1-AC42-000E84056940}.Debug|x86.Build.0 = Debug|x86
+		{3BEC8747-522C-4AE1-AC42-000E84056940}.Release|x86.ActiveCfg = Release|x86
+		{3BEC8747-522C-4AE1-AC42-000E84056940}.Release|x86.Build.0 = Release|x86
+		{26D6A861-CBEE-4BF4-9EAF-0A8E73B1452D}.Debug|x86.ActiveCfg = Debug|x86
+		{26D6A861-CBEE-4BF4-9EAF-0A8E73B1452D}.Debug|x86.Build.0 = Debug|x86
+		{26D6A861-CBEE-4BF4-9EAF-0A8E73B1452D}.Release|x86.ActiveCfg = Release|x86
+		{26D6A861-CBEE-4BF4-9EAF-0A8E73B1452D}.Release|x86.Build.0 = Release|x86
+		{06375669-5774-4219-A680-324BAAF153A2}.Debug|x86.ActiveCfg = Debug|x86
+		{06375669-5774-4219-A680-324BAAF153A2}.Debug|x86.Build.0 = Debug|x86
+		{06375669-5774-4219-A680-324BAAF153A2}.Release|x86.ActiveCfg = Release|x86
+		{06375669-5774-4219-A680-324BAAF153A2}.Release|x86.Build.0 = Release|x86
+		{CB43267E-FD83-4FA1-B5B3-96E331FD357D}.Debug|x86.ActiveCfg = Debug|x86
+		{CB43267E-FD83-4FA1-B5B3-96E331FD357D}.Debug|x86.Build.0 = Debug|x86
+		{CB43267E-FD83-4FA1-B5B3-96E331FD357D}.Release|x86.ActiveCfg = Release|x86
+		{CB43267E-FD83-4FA1-B5B3-96E331FD357D}.Release|x86.Build.0 = Release|x86
+		{47F70B83-94C1-41DD-AFCA-E46EA7ADBC44}.Debug|x86.ActiveCfg = Debug|x86
+		{47F70B83-94C1-41DD-AFCA-E46EA7ADBC44}.Debug|x86.Build.0 = Debug|x86
+		{47F70B83-94C1-41DD-AFCA-E46EA7ADBC44}.Release|x86.ActiveCfg = Release|x86
+		{47F70B83-94C1-41DD-AFCA-E46EA7ADBC44}.Release|x86.Build.0 = Release|x86
+		{00385519-4CE0-468D-99FB-AA29C51F9C95}.Debug|x86.ActiveCfg = Debug|x86
+		{00385519-4CE0-468D-99FB-AA29C51F9C95}.Debug|x86.Build.0 = Debug|x86
+		{00385519-4CE0-468D-99FB-AA29C51F9C95}.Release|x86.ActiveCfg = Release|x86
+		{00385519-4CE0-468D-99FB-AA29C51F9C95}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal

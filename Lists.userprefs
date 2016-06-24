@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Lists/Lists.fsproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RecursiveTraversal/Program.fs">
+    <Files>
+      <File FileName="Lists/Program.fs" Line="18" Column="26" />
+      <File FileName="RandomList/Program.fs" Line="18" Column="12" />
+      <File FileName="PatternMatching/Program.fs" Line="19" Column="1" />
+      <File FileName="FunctionComposition/Program.fs" Line="50" Column="1" />
+      <File FileName="Consing/Program.fs" Line="30" Column="1" />
+      <File FileName="ConsingOnStackList/Program.fs" Line="6" Column="29" />
+      <File FileName="RecursiveTraversal/Program.fs" Line="14" Column="54" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Lists PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

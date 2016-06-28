@@ -35,15 +35,16 @@ myNumbers 1
 
 let animals = 
     [| 
-        "cat"
-        "dog"
-        "mouse"
+        [|"cat"|]
+        [|"dog"|]
+        [|"mouse"|]
     |]
     |> Array.map(fun x -> 
         match x with
-        | "dog" -> "bird"
+        | [|"dog"|] -> [|"bird"|]
         | _ -> x)
-    |> Array.iter(printfn "%A")
+    |> Array.toList
+    |> List.iter(printfn "%A")
 //printfn "%A" animals
 
 [<EntryPoint>]

@@ -2,12 +2,12 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="RecursiveTraversal/Program.fs">
     <Files>
       <File FileName="Lists/Program.fs" Line="18" Column="26" />
-      <File FileName="RandomList/Program.fs" Line="18" Column="12" />
+      <File FileName="RandomList/Program.fs" Line="43" Column="21" />
       <File FileName="PatternMatching/Program.fs" Line="19" Column="1" />
       <File FileName="FunctionComposition/Program.fs" Line="50" Column="1" />
       <File FileName="Consing/Program.fs" Line="30" Column="1" />
       <File FileName="ConsingOnStackList/Program.fs" Line="6" Column="29" />
-      <File FileName="RecursiveTraversal/Program.fs" Line="14" Column="54" />
+      <File FileName="RecursiveTraversal/Program.fs" Line="38" Column="5" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />

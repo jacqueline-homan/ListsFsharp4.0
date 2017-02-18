@@ -17,6 +17,13 @@ let user = Console.ReadLine() |> int |> underrated |> printfn "%s"
 |> List.iter(fun s -> printfn "Has length %d" s.Length)
 
 
+let list = [1..7]
+let fifthElem list =
+    list
+    |> List.item 5
+
+fifthElem list |> printfn "%A"
+
 
 
 

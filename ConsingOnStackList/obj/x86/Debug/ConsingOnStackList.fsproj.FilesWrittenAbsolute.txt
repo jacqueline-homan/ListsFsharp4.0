@@ -1,5 +1,0 @@
-/home/jacque/Projects/F-sharp/Lists/ConsingOnStackList/obj/x86/Debug/.NETFramework,Version=v4.5.1.AssemblyAttribute.fs
-/home/jacque/Projects/F-sharp/Lists/ConsingOnStackList/bin/Debug/ConsingOnStackList.exe.mdb
-/home/jacque/Projects/F-sharp/Lists/ConsingOnStackList/bin/Debug/ConsingOnStackList.exe
-/home/jacque/Projects/F-sharp/Lists/ConsingOnStackList/obj/x86/Debug/ConsingOnStackList.exe
-/home/jacque/Projects/F-sharp/Lists/ConsingOnStackList/obj/x86/Debug/ConsingOnStackList.exe.mdb

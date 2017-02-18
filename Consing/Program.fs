@@ -13,9 +13,9 @@ let newDevelopers = {Title = "Architect"; Name = "Twisted Sister"} :: developers
 printfn "%A" developers
 let rec findDeveloper x =
     match x with
-    | {Title = "Architect"; Name = x} :: tail -> x
+    | {Title = "Senior Developer"; Name = x} :: tail -> x
     | _ :: tail -> findDeveloper tail
-    | [] -> sprintf "No Architect listed"
+    | [] -> sprintf "No Senior Developer listed"
 printfn "%A" (findDeveloper developers)
 printfn "\n"
 printfn "Our new list of developers includes %A" newDevelopers
@@ -27,6 +27,9 @@ let describeList newDevelopers =
     | head :: tail -> 
         sprintf "List beginning %A, %i more elements" head tail.Length
 printfn "%A" (describeList newDevelopers)
+
+ 
+
 
 [<EntryPoint>]
 let main argv = 

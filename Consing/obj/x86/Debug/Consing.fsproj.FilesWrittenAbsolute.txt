@@ -1,5 +1,0 @@
-/home/jacque/Projects/F-sharp/Lists/Consing/obj/x86/Debug/.NETFramework,Version=v4.5.1.AssemblyAttribute.fs
-/home/jacque/Projects/F-sharp/Lists/Consing/bin/Debug/Consing.exe.mdb
-/home/jacque/Projects/F-sharp/Lists/Consing/bin/Debug/Consing.exe
-/home/jacque/Projects/F-sharp/Lists/Consing/obj/x86/Debug/Consing.exe
-/home/jacque/Projects/F-sharp/Lists/Consing/obj/x86/Debug/Consing.exe.mdb

@@ -8,14 +8,14 @@ let tailfib n =
     tail 0 1 n
 
 // Recursive List traversal
-let partitionUntil predicate input =
+let partitionList predicate input =
     let rec loop acc list =
         match list with
-        | head::tail when predicate head -> List.rev acc, head::tail
+        | head::tail when predicate head -> acc, head::tail
         | head::tail -> loop(head::acc) tail
         | [] -> input, []
     loop [] input
-[7;8;9;10;11;12;13;14;15] |> partitionUntil(fun x -> x > 10) |> printfn "%A"
+[7;8;9;10;11;12;13;14;15] |> partitionList(fun x -> x > 10) |> printfn "%A"
 
 let splitUpList predicate input =
     let rec loop acc list =
@@ -28,8 +28,22 @@ let splitUpList predicate input =
 |> splitUpList(fun x -> x = "Linda Ronstadt")
 |> printfn "%A"
     
+let list1 = [3;2;1]
+let list2 = 4::list1
+match list2 with
+| head::tail -> printfn "%b" (obj.ReferenceEquals(tail, list1))
+|_ -> ()
 
+(*
+let list = [2;1;4;3]
 
+let rec arraySort x =
+   match x with
+   | [] -> []
+   |[x] -> [x]
+   |x0::x1 when x>x1 && (x0-x1 = 1) ->[x0] @ [x0]@(arraySort x)
+   |x0::x1 -> [x0] @ (arraySort x)
+*)
 [<EntryPoint>]
 let main argv = 
     printfn "%A" argv

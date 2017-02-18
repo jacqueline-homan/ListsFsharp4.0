@@ -7,7 +7,7 @@ type FsharpBoardMembers = { mutable Name : string }
 let boardList = 
     [{Name = "Reed Copsey"}; {Name = "Franken Stine"}]    
 
-boardList.[1].Name <- "Don Syme"
+boardList.[1].Name <- "Don Syme" 
 //printfn "%A" boardList
 
 //generates a list of random numbers and takes only the first two elements

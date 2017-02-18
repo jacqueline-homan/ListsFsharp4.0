@@ -26,6 +26,13 @@ let mutable myMutableList = ["Oscar the Grouch"; "Big Bird"; "Snuffalupagus"]
 myMutableList <- ["Bert"; "Ernie"; "Cookie Monster"]
 printfn "%A" myMutableList
 
+let list1 = ["Oscar the Grouch"; "Big Bird"; "Snuffalupagus"]
+let list2 = ["Bert"; "Ernie"; "Cookie Monster"]
+let myAppendedList = list1 @ list2
+myAppendedList |> printfn "%A"
+List.iter(printfn "%A") myAppendedList
+
+
 
 [<EntryPoint>]
 let main argv = 

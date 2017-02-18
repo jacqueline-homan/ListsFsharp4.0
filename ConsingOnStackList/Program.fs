@@ -31,6 +31,10 @@ type SimpleStack<'T>()=
         )
 
 
+
+
+
+
 [<EntryPoint>]
 let main argv = 
     printfn "%A" argv
